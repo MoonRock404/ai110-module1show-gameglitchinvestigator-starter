@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [X] Describe the game's purpose.
+- [X] Detail which bugs you found.
+- [X] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [![alt text](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/wq/_08fpqds6_3_sjw2yndvs_6w0000gn/T/TemporaryItems/NSIRD_screencaptureui_oT0XED/Screenshot%202026-03-14%20at%2010.40.11%E2%80%AFPM.png?version%3D1773553217961) ] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
